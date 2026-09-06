@@ -1,10 +1,11 @@
-# Error-Copy
+⚠️ Error-Copy
 Quickly copy errors, warnings, and problems from any file in VS Code to your clipboard.
 
 Instead of manually copying problems from the Problems panel, Error Copy collects the diagnostics from the selected file and prepares a clean, structured report ready to paste into ChatGPT, Claude, Gemini, or any other AI coding assistant.
 
-Features
-⛔ Copy Errors
+Features :
+
+⛔ Copy Errors :
 Copies only ERROR diagnostics from the selected file.
 
 The report includes:
@@ -17,7 +18,10 @@ Diagnostic source
 Previous line
 Error line
 Next line
-⚠️ Copy Warnings
+
+
+⚠️ Copy Warnings :
+
 Copies:
 
 Warnings
@@ -25,7 +29,9 @@ Information
 Hints
 from the selected file.
 
-⚠️ + ⛔ Copy All
+
+⚠️ + ⛔ Copy All 
+
 Copies all Problems reported for the selected file.
 
 This includes:
